@@ -51,13 +51,13 @@ https://api-jogos-uxuc.onrender.com/api/games
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/andre-0303/app-z-geek.git
 ```
 
 2. **Acesse a pasta do projeto:**
 
 ```bash
-cd seu-repositorio
+cd jogos-app
 ```
 
 3. **Instale as dependências:**
@@ -101,4 +101,4 @@ Contribuições são bem-vindas! Fique à vontade para abrir issues e pull reque
 
 ---
 
-Feito com ❤️ por [Seu Nome].
+Feito com ❤️ por [Bandeira Dev].
